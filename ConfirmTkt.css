@@ -1,0 +1,187 @@
+body{
+    margin: 0%;
+}
+#Head{
+    margin-top: -20px;
+}
+
+#HeaderLeftSecton{   /*Header section*/
+    width: 50%;
+    height: 72px;
+    float: left;
+}
+#HeaderLogo{
+    width: 138px;
+    margin-left: 146px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+#HeaderRightSecton{
+    width: 50%;
+    height: 72px;
+    float: left;
+}
+.HeaderNav{
+    list-style: none;
+    
+}
+.HeaderLi{
+    float: left;
+  padding-left: 33px;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+.HeaderLi:hover{
+    color: #42a047;
+}
+.li2{
+    padding-left: 7px;
+  margin-top: -20px;
+}
+#RightSectionDiv{
+    margin-left: 67px;
+    float: left;
+}
+#logoImg{
+    width: 30px;
+    border-radius: 50px;
+}
+#logoImgDiv{
+    margin-left: 347px;
+  margin-top: -24px;
+  float: left;
+}
+span{
+    font-weight: bold;
+}
+
+
+/* First body section*/
+
+#firstBody{ 
+    display: unset;
+    position: relative;
+    top: 60px;
+}
+.h11{
+    text-align: center;
+    color: #42a047;
+    font-size: 28px;
+    font-weight: 501;
+    font-family: Roboto, sans-serif;
+}
+.h22{
+    color: #333;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: .36px;
+  line-height: 0;
+  text-align: center;
+}
+
+
+/*second body secton*/
+
+
+.sLeftImg{
+    align-items: center;
+    display: flex;
+    height: 80px;
+    padding: 16px;
+    position: relative;
+    width: 300px;
+}
+.Sleft31{
+    background: #fff;
+    border: 1px solid #d6d6d6;
+    border-radius: 8px;
+    display: flex;
+    margin: 0 auto;
+    position: relative;
+    top: 75px;
+    width: 960px;
+    
+}
+.SLabel{
+    color: #adadad;
+    cursor: pointer;
+    display: block;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+.Sp{
+    border: 0;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    overflow: hidden;
+    padding: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: Roboto, sans-serif;
+}
+.trnImg{
+    margin-right: 12px;
+    width: 47px;
+}
+.img32{
+  left: 444px;
+  top: -38px;
+}
+.img33{
+  left: 750px;
+  top: -150px;
+}
+.imgArrow{
+    margin-left: 420px;
+  position: absolute;
+  width: 40px;
+}
+#searchButton{
+    background-color: #43a64e;
+  border: 0;
+  border-radius: 0 8px 8px 0;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+  height: 112px;
+  letter-spacing: .5px;
+  padding: 14px;
+  text-align: center;
+  width: 160px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+#SearchDiv{
+    margin-left: 49px;
+}
+
+
+
+/*site add section*/
+
+.rcbBannerDiv{
+  margin-top: -98px;
+  text-align: center;
+}
+.rcbBanner{
+    width: 320px;
+}
+.img2
+{
+    margin-left: -134px;
+  width: 32px;
+  margin-top: 25px;
+}
+#h23{
+    font-size: 14px;
+    font-weight: 400;
+    color: #333;
+    font-family: Roboto, sans-serif;
+}
+#h23Div{
+    margin-left: 70px;
+  margin-top: -41px;
+}
