@@ -59,6 +59,11 @@ span{
 
 /* First body section*/
 
+#container{
+
+  width: 100%;
+}
+
 #firstBody{ 
     display: unset;
     position: relative;
@@ -78,6 +83,7 @@ span{
   letter-spacing: .36px;
   line-height: 0;
   text-align: center;
+  font-family: Roboto, sans-serif;
 }
 
 
@@ -184,4 +190,150 @@ span{
 #h23Div{
     margin-left: 70px;
   margin-top: -41px;
+}
+#h24{
+  font-weight: 500;
+  color: #333;
+  font-family: Roboto, sans-serif;
+  margin-left: 166px;
+  margin-top: 47px;
+  font-size: 28px;
+}
+
+/*Details div section*/
+
+#DetailesMainDiv{
+  width: 100%;
+  height: 400px;
+  position: relative;
+
+}
+.DetailesMain1{
+  width: 49.5%;
+  height: 150px;
+  float: left;
+  position: relative;
+}
+.img1{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  left: 175px;
+  top: 17px;
+}
+
+.h31{
+  font-size: 18px;
+  margin-bottom: 6px;
+  color: #333;
+  font-family: Roboto, sans-serif;
+  margin-left: 248px;
+  position: relative;
+  top: -63px;
+}
+
+.p1{
+  color: #858585;
+  margin-top: 0;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-left: 248px;
+  margin-top: -57px;
+}
+.mar{
+  margin-left: -110px;
+}
+
+
+
+/*Rating section*/
+
+#RatingMainDiv{
+  width: 100%;
+  height: 500px;
+}
+
+#imgMobile{
+  width: 234px;
+  height: 451px;
+  margin-top: 190px;
+}
+#imgR1{
+  position: absolute;
+  left: 207px;
+  top: 1072px;
+}
+#imgR2{
+  position: absolute;
+  left: 490px;
+  top: 1370px;
+}
+#imgRating{
+  width: 650px;
+  height: 206px;
+}
+#imgR3{
+  width: 164px;
+  height: 52px;
+}
+#Gplay{
+  position: absolute;
+  left: 494px;
+  top: 1634px;
+}
+#img4{
+  width: 164px;
+  height: 52px;
+}
+#Astore{
+  position: absolute;
+  left: 683px;
+  top: 1633px;
+}
+#blue{
+  width: 100%;
+  height: 266px;
+  background-color: #cfe6cd;
+  margin-top: 156px;
+}
+
+
+
+/*footer section*/
+
+#footerDiv{
+  width: 100%;
+  height: 100px;
+  background-color: #333;
+  position: absolute;
+  top: 1758px;
+}
+.ftrLi{
+  list-style: none;
+  color: #fff;
+  letter-spacing: 1px;
+  float: left;
+  padding: 15px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Roboto, sans-serif;
+}
+.ftrLi:hover{
+  text-decoration: underline;
+}
+.li1{
+  position: absolute;
+  left: 566px;
+  top: 48px;
+}
+.li3{
+  position: absolute;
+  left: 625px;
+  top: 48px;
+}
+
+#container{
+  margin-bottom: -10px;
 }
